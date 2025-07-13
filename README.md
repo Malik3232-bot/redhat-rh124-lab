@@ -11,4 +11,4 @@ Hands-on lab documentation from Red Hat RH124, showcasing system administration 
 
 ## Lab Completion Status
 
-![Lab Pass Confirmation](access_linux_files.png)
+![Lab Pass Confirmation](access_linux_file.png)
