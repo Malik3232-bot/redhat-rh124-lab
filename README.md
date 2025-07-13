@@ -7,8 +7,8 @@ Hands-on lab documentation from Red Hat RH124, showcasing system administration 
 
 ## Disk Usage Logging
 
-![Disk Usage Screenshot](screenshots/diskusage_report.png)
+![Disk Usage Screenshot](diskusage_report.png)
 
 ## Lab Completion Status
 
-![Lab Pass Confirmation](screenshots/access_linux_files.png)
+![Lab Pass Confirmation](access_linux_files.png)
